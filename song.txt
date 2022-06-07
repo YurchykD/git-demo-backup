@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 People are strange when you're a stranger
 Faces look ugly when you're alone
 Women seem wicked when you're unwanted
@@ -11,4 +12,12 @@ No one remembers your name
 When you're strange
 When you're strange
 When you're strange
+=======
+The first string of the song
+The second string of the song
+The third string of the song
+The fourth string of the song
 
+The fifth string line of the song
+The sixth string line of the song
+>>>>>>> 0cb8b13f2da3f238e4501951b0511b6909b4fe38
