@@ -1,2 +1,4 @@
 The first string of the song
 The second string of the song
+The third string of the song
+The fourth string of the song
